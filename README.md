@@ -18,7 +18,7 @@ SIPBL adalah proyek saya ketika melakukan magang di TIK atau ICT Politeknik Nege
 
 ## Hak akses dan ringkasan fitur 📜
 
-Pada sistem **BIMA POLITALA** ada banyak fitur pada setiap hak akses, namun akan saya list secara ringkas
+Pada sistem **SIPBL** ada banyak fitur pada setiap hak akses, namun akan saya list secara ringkas
 - KPS
   - Kelola Sistem sesuai prodi
 - Pengusul
